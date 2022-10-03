@@ -1,5 +1,5 @@
 /*
-KMP algorithm
+KMP (Knuth, Morris, and Pratt) string searching algorithm 
 Time complexity : O(n + m)
 Space complexity : O(m)
 where n = length of txt
